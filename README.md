@@ -13,7 +13,7 @@ The dashboard transforms raw data into strategic insights to support data-driven
 
 ##  Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Preview/dashboard_preview.png)
 
 ---
 
