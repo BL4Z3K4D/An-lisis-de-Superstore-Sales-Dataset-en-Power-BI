@@ -1,7 +1,3 @@
----
-title: "Sales Performance Dashboard – Power BI Project"
-output: github_document
----
 
 #  Sales Performance Dashboard – Power BI Project
 
